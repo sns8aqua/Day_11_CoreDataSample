@@ -16,6 +16,7 @@
 		EE64BB7E279DBB8E004E7B9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE64BB7C279DBB8E004E7B9F /* LaunchScreen.storyboard */; };
 		EE64BB89279DBB8E004E7B9F /* CoreDataSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64BB88279DBB8E004E7B9F /* CoreDataSampleTests.swift */; };
 		EE64BB94279DBB8E004E7B9F /* CoreDataSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64BB93279DBB8E004E7B9F /* CoreDataSampleUITests.swift */; };
+		EE64BBA2279DBDB2004E7B9F /* DisplayTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64BBA1279DBDB2004E7B9F /* DisplayTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		EE64BB8F279DBB8E004E7B9F /* CoreDataSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CoreDataSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE64BB93279DBB8E004E7B9F /* CoreDataSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataSampleUITests.swift; sourceTree = "<group>"; };
 		EE64BB95279DBB8E004E7B9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE64BBA1279DBDB2004E7B9F /* DisplayTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisplayTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				EE64BB6E279DBB8C004E7B9F /* AppDelegate.swift */,
 				EE64BB70279DBB8C004E7B9F /* SceneDelegate.swift */,
 				EE64BB72279DBB8C004E7B9F /* ViewController.swift */,
+				EE64BBA1279DBDB2004E7B9F /* DisplayTableViewCell.swift */,
 				EE64BB74279DBB8C004E7B9F /* Main.storyboard */,
 				EE64BB7A279DBB8E004E7B9F /* Assets.xcassets */,
 				EE64BB7C279DBB8E004E7B9F /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				EE64BB79279DBB8C004E7B9F /* CoreDataSample.xcdatamodeld in Sources */,
 				EE64BB73279DBB8C004E7B9F /* ViewController.swift in Sources */,
 				EE64BB6F279DBB8C004E7B9F /* AppDelegate.swift in Sources */,
+				EE64BBA2279DBDB2004E7B9F /* DisplayTableViewCell.swift in Sources */,
 				EE64BB71279DBB8C004E7B9F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
